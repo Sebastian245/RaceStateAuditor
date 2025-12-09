@@ -6,6 +6,8 @@ Race State Auditor is a professional extension designed to detect and validate R
 
 Unlike standard brute-force tools, this extension implements a **State Probe** workflow that verifies if a concurrent attack successfully bypassed business logic limits (e.g., duplication, negative balance, limit evasion) even when the server returns generic `200 OK` responses.
 
+<img width="1911" height="957" alt="imagen" src="https://github.com/user-attachments/assets/77de9e8a-0af9-4496-9a4d-e27a28ee5c2d" />
+
 ## Core Capabilities
 
 ### State-Aware Verification
